@@ -22,7 +22,7 @@ A aplicação foi desenvolvida em C#, utilizando :
 - [Arquitetura](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) 
 
 <div id='st3' />
-https://localhost:5001/swagger/index.html
+
 ## Executando a Aplicação
 
 ```sh
