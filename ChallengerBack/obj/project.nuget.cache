@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jii7REuiPwi0cC7krEWKweYVOovw8x9LYtoP3eeUNUMPk+12iLLQEW3kRFsca3VnGqopl2HAJ7Ph/Y05PegY4A==",
+  "dgSpecHash": "qWii1xftgKypE1ZjjcJOLoZ38R3voxg58BSHIMeWn9jROIw7psG+WswnpXgA9XfJaPIc0ncwenc1TLboTHAleg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danilo.dias\\source\\repos\\ChallengerBack\\ChallengerBack\\ChallengerBack.csproj",
+  "projectFilePath": "C:\\Users\\danilo.dias\\World-Cup-Back\\ChallengerBack\\ChallengerBack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danilo.dias\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\danilo.dias\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danilo.dias\\source\\repos\\ChallengerBack\\ChallengerBack\\ChallengerBack.csproj": {}
+    "C:\\Users\\danilo.dias\\World-Cup-Back\\ChallengerBack\\ChallengerBack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danilo.dias\\source\\repos\\ChallengerBack\\ChallengerBack\\ChallengerBack.csproj": {
+    "C:\\Users\\danilo.dias\\World-Cup-Back\\ChallengerBack\\ChallengerBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danilo.dias\\source\\repos\\ChallengerBack\\ChallengerBack\\ChallengerBack.csproj",
+        "projectUniqueName": "C:\\Users\\danilo.dias\\World-Cup-Back\\ChallengerBack\\ChallengerBack.csproj",
         "projectName": "ChallengerBack",
-        "projectPath": "C:\\Users\\danilo.dias\\source\\repos\\ChallengerBack\\ChallengerBack\\ChallengerBack.csproj",
+        "projectPath": "C:\\Users\\danilo.dias\\World-Cup-Back\\ChallengerBack\\ChallengerBack.csproj",
         "packagesPath": "C:\\Users\\danilo.dias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danilo.dias\\source\\repos\\ChallengerBack\\ChallengerBack\\obj\\",
+        "outputPath": "C:\\Users\\danilo.dias\\World-Cup-Back\\ChallengerBack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danilo.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
