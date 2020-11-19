@@ -22,7 +22,7 @@ A aplicação foi desenvolvida em C#, utilizando :
 - [Arquitetura](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) 
 
 <div id='st3' />
-
+https://localhost:5001/swagger/index.html
 ## Executando a Aplicação
 
 ```sh
@@ -35,12 +35,15 @@ A aplicação foi desenvolvida em C#, utilizando :
    dotnet restore
 ```
 ```sh
+   cd ChallengerBack
+```
+```sh
    dotnet run
 ```
 <div id='st4' />
-Ao final,
+Ao final, acesse
 
 ```sh
-  dotnet run
+  https://localhost:5001/swagger/index.html
 ```
 
