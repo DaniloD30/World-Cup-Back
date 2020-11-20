@@ -53,7 +53,7 @@ Ao final, acesse
 
 # Link da Aplicação
 
-A Aplicação está disponível no Heroku atráves deste [Link](https://worldcupmovie.herokuapp.com/swagger/index.html).
+A Aplicação está disponível no Heroku através deste [Link](https://worldcupmovie.herokuapp.com/swagger/index.html).
 
 <div id='st6' />
 
